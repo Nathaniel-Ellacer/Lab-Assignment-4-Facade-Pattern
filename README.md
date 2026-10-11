@@ -16,8 +16,6 @@ Class Definitions:
 
 **HotelApp:** The client class that uses the FrontDesk facade to access and utilize hotel services seamlessly.
 
-In your solution you must provide the following in your Github link account:
+![Facade UML Diagram](Facade%20Pattern.jpeg)
 
-  Problem statement (description of the problem. Just copy what is stated here.
-  UML Class Diagram
-  Uploaded java codes for the solution.
+
